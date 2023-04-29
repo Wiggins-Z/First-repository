@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84eb0a1e-369b-43da-ad7a-3e1f0eabbc78" name="Changes" comment="very good">
-      <change beforePath="$PROJECT_DIR$/Test02/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test02/src/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="84eb0a1e-369b-43da-ad7a-3e1f0eabbc78" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,7 @@
       <workItem from="1655274854117" duration="79000" />
       <workItem from="1655275027336" duration="397000" />
       <workItem from="1655275497948" duration="792000" />
-      <workItem from="1682750127518" duration="2827000" />
+      <workItem from="1682750127518" duration="3241000" />
     </task>
     <task id="LOCAL-00001" summary="好">
       <created>1682750299880</created>
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682752598013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="very good">
+      <created>1682753133145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682753133145</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +151,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dep" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
