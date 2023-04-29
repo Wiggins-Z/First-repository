@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84eb0a1e-369b-43da-ad7a-3e1f0eabbc78" name="Changes" comment="very good">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test02/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test02/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +99,7 @@
       <workItem from="1655274854117" duration="79000" />
       <workItem from="1655275027336" duration="397000" />
       <workItem from="1655275497948" duration="792000" />
-      <workItem from="1682750127518" duration="2452000" />
+      <workItem from="1682750127518" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary="好">
       <created>1682750299880</created>
@@ -123,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682751637510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="very good">
+      <created>1682752598013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682752598013</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="好" />
     <MESSAGE value="good" />
-    <option name="LAST_COMMIT_MESSAGE" value="good" />
+    <MESSAGE value="very good" />
+    <option name="LAST_COMMIT_MESSAGE" value="very good" />
   </component>
 </project>
